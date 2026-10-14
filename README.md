@@ -16,6 +16,7 @@ Most of my work comes from [42]([https://www.42network.org/]), where I've been f
 * **[Tracendance](https://github.com/paprika-iuan/42_Trascendence)** — A full-stack web project built as part of 42.
 * **[Webserver](https://github.com/paprika-iuan/42_Webserv)** — An HTTP web server written in C++.
 * **[Minishell](https://github.com/paprika-iuan/42_Minishell)** — A Unix shell implemented from scratch in C.
+* **[What I'm listening NTS]((https://github.com/paprika-iuan/what_Im_listening_NTS))** — The card up there that shwos my latest favorite NTS show.
 
 ### Technologies
 
