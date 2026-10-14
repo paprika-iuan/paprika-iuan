@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=40&duration=3000&color=9B6F92&multiline=true&repeat=false&width=414&height=200&lines=Is+anyone+there%3F;.+.+.+;Hi!;This+is+Joan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=League+Spartan&size=40&duration=3000&color=9B6F92&multiline=true&repeat=false&width=354&height=200&lines=Is+anyone+there%3F;.+.+.+;Hi!;This+is+Joan!" alt="Typing SVG" />
   <img src="https://what-im-listening-nts.iuan.workers.dev/?v=2" alt="NTS Show Card" width="436"/>
 </div>
 
