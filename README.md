@@ -19,14 +19,9 @@ Most of my work comes from [42]([https://www.42network.org/]), where I've been f
 
 ### Technologies
 
-* C / C++
-* TypeScript / JavaScript
-* React / Next.js
-* Node.js
-* Socket.IO
-* Linux
-* Git
-* Shell scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,react,nodejs,linux,git,bash" />
+</p>
 
 ### Currently
 
