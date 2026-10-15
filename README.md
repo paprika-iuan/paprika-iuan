@@ -13,7 +13,7 @@ Most of my work comes from [42]([https://www.42network.org/]), where I've been f
 
 ### Featured projects
 
-* **[Tracendance](https://github.com/paprika-iuan/42_Trascendence)** — A full-stack web project built as part of 42.
+* **[Tracendance](https://github.com/paprika-iuan/42_Trascendence)** — A full-stack web game built as part of 42. -> [Play!](https://ft-dice.vercel.app/)
 * **[Webserver](https://github.com/paprika-iuan/42_Webserv)** — An HTTP web server written in C++.
 * **[Minishell](https://github.com/paprika-iuan/42_Minishell)** — A Unix shell implemented from scratch in C.
 * **[What I'm listening NTS](https://github.com/paprika-iuan/what_Im_listening_NTS)** — The card up there that shows my favorite recently published NTS show.
